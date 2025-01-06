@@ -1,8 +1,11 @@
 docker path:qiuhusama/auto_match_r18track
 
-离线匹配小姐姐字幕
-   目前本地字幕共有38985个（包括重复）
-使用方法 映射需要匹配的视频所在文件夹
+### <span data-type="text" style="font-size: 16px;">离线匹配小姐姐字幕</span>
 
-例：/strm : /app/video
-注意：强烈建议匹配完后查看匹配成功日志，因为目前匹配方法不能100%正确匹配，个人匹配有3%错误几率
+       目前本地字幕共有38985个（包括重复）
+
+使用方法
+       映射需要匹配的视频所在文件夹
+
+	例：/strm : /app/video
+
