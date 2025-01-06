@@ -1,4 +1,4 @@
-### <span data-type="text" style="font-size: 16px;">离线匹配小姐姐字幕</span>
+### <span data-type="text" style="font-size: 16px;">自動离线匹配小姐姐字幕</span>
 
        目前本地字幕共有38985个（包括重复）
 
