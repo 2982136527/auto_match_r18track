@@ -1,5 +1,3 @@
-docker path:qiuhusama/auto_match_r18track
-
 ### <span data-type="text" style="font-size: 16px;">离线匹配小姐姐字幕</span>
 
        目前本地字幕共有38985个（包括重复）
@@ -9,3 +7,4 @@ docker path:qiuhusama/auto_match_r18track
 
 	例：/strm : /app/video
 
+DockerPath:qiuhusama/auto_match_r18track
